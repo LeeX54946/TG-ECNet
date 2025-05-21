@@ -101,11 +101,11 @@ Stripe noise was applied to the infrared image in different scenes as shown in t
 
 ### Download
 
-- [Google Drive](https://drive.google.com/drive/folders/1H-oO7bgRuVFYDcMGvxstT1nmy0WF_Y_6?usp=sharing)(Only for Test)
-- [Baidu Yun](https://pan.baidu.com/s/1GoJrrl_mn2HNQVDSUdPCrw?pwd=M3FD)
+- [Google Drive]()(Only for Test)
+- [Baidu Yun](https://pan.baidu.com/s/1KbaGUXzuOW6ej4maHN5ZcQ?pwd=TGEC)
 
 
-If you have any question or suggestion about the dataset, please email to [Xin Li](mailto:rollingplainko@gmail.com)
+If you have any question or suggestion about the dataset, please email to [Xin Li](leexin_seu@seu.edu.cn).
 
 ---
 
@@ -236,7 +236,7 @@ TG-ECNet
 
 ### Any Question
 
-If you have any other questions about the code, please email [Xin Li](mailto:rollingplainko@gmail.com).
+If you have any other questions about the code, please email [Xin Li](leexin_seu@seu.edu.cn).
 
 
 ## Citation

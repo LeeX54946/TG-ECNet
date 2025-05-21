@@ -105,7 +105,7 @@ Stripe noise was applied to the infrared image in different scenes as shown in t
 - [Baidu Yun](https://pan.baidu.com/s/1KbaGUXzuOW6ej4maHN5ZcQ?pwd=TGEC)
 
 
-If you have any question or suggestion about the dataset, please email to [Xin Li](leexin_seu@seu.edu.cn).
+If you have any question or suggestion about the dataset, please email to `leexin_seu@seu.edu.cn`.
 
 ---
 
@@ -236,7 +236,7 @@ TG-ECNet
 
 ### Any Question
 
-If you have any other questions about the code, please email [Xin Li](leexin_seu@seu.edu.cn).
+If you have any other questions about the code, please email `leexin_seu@seu.edu.cn`.
 
 
 ## Citation

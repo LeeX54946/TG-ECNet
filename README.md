@@ -85,17 +85,17 @@ Stripe noise was applied to the infrared image in different scenes as shown in t
 ---
 - **510** (for Multi-Task image restoration or fusion)
 
-|                 Degradation Type                 | Num |                                  Degradation Type                                  | LLVIP |
-|:------------------------------------------------:|:---:|:----------------------------------------------------------------------------------:|:-----:|
-|    **Haze** and **Gaussian Noise**(Sigma=15)     | 30  |                            **Haze** and **DefocusBlur**                            |  30   |
-|    **Haze** and **Gaussian Noise**(Sigma=25)     | 30  |                           **Haze** and **Stripe Noise**                            |  30   |
-|    **Haze** and **Gaussian Noise**(Sigma=50)     | 30  |                        **DefocusBlur** and **Stripe Noise**                        |  30   |
-| **DefocusBlur** and **Gaussian Noise**(Sigma=15) | 30  |                   **Haze**, **Stripe Noise** and **DefocusBlur**                   |  30   |
-| **DefocusBlur** and **Gaussian Noise**(Sigma=25) | 30  |            **Haze**, **Stripe Noise** and **Gaussian Noise**(Sigma=50)             |  30   |
-| **DefocusBlur** and **Gaussian Noise**(Sigma=50) | 30  |             **Haze**, **DefocusBlur** and **Gaussian Noise**(Sigma=50)             |  30   |
-|   **Stripe** and **Gaussian Noise**(Sigma=15)    | 30  |         **DefocusBlur**, **Stripe Noise** and **Gaussian Noise**(Sigma=50)         |  30   |
-|   **Stripe** and **Gaussian Noise**(Sigma=25)    | 30  |    **Haze**, **DefocusBlur**, **Stripe Noise** and **Gaussian Noise**(Sigma=50)    |  30   |
-|   **Stripe** and **Gaussian Noise**(Sigma=50)    | 30  |                                                                                    |       |
+|                 Degradation Type                 | Num |                                  Degradation Type                                  | Num |
+|:------------------------------------------------:|:---:|:----------------------------------------------------------------------------------:|:---:|
+|    **Haze** and **Gaussian Noise**(Sigma=15)     | 30  |                            **Haze** and **DefocusBlur**                            | 30  |
+|    **Haze** and **Gaussian Noise**(Sigma=25)     | 30  |                           **Haze** and **Stripe Noise**                            | 30  |
+|    **Haze** and **Gaussian Noise**(Sigma=50)     | 30  |                        **DefocusBlur** and **Stripe Noise**                        | 30  |
+| **DefocusBlur** and **Gaussian Noise**(Sigma=15) | 30  |                   **Haze**, **Stripe Noise** and **DefocusBlur**                   | 30  |
+| **DefocusBlur** and **Gaussian Noise**(Sigma=25) | 30  |            **Haze**, **Stripe Noise** and **Gaussian Noise**(Sigma=50)             | 30  |
+| **DefocusBlur** and **Gaussian Noise**(Sigma=50) | 30  |             **Haze**, **DefocusBlur** and **Gaussian Noise**(Sigma=50)             | 30  |
+|   **Stripe** and **Gaussian Noise**(Sigma=15)    | 30  |         **DefocusBlur**, **Stripe Noise** and **Gaussian Noise**(Sigma=50)         | 30  |
+|   **Stripe** and **Gaussian Noise**(Sigma=25)    | 30  |    **Haze**, **DefocusBlur**, **Stripe Noise** and **Gaussian Noise**(Sigma=50)    | 30  |
+|   **Stripe** and **Gaussian Noise**(Sigma=50)    | 30  |                                                                                    |     |
 
 ---
 

@@ -220,7 +220,7 @@ We offer the pretrained model parameters, you can place them like this:
 
 ```
 TG-ECNet
-└── stage1
+├── stage1
 |   ├── ckpt
 |   |   └── stage1_pretrained.ckpt
 └── stage2

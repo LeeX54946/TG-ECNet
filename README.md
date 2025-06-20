@@ -2,7 +2,7 @@
 
 Yiming Sun, Xin Li, Pengfei Zhu, Qinghua Hu, Dongwei Ren, Huiying Xu, Xinzhong Zhu 
 
-- [*[Paper]*]()
+- [*[Paper]*](https://openreview.net/pdf?id=OcFsPBXREI)
 - [*[GitHub]*](https://github.com/LeeX54946/TG-ECNet)
 ---
 
@@ -242,14 +242,13 @@ If you have any other questions about the code, please email `leexin_seu@seu.edu
 ## Citation
 
 If this work has been helpful to you, please feel free to cite our paper!
-Yiming Sun, Xin Li, Pengfei Zhu, Qinghua Hu, Dongwei Ren, Huiying Xu, Xinzhong Zhu 
 
 ```
-@inproceedings{,
+@inproceedings{tgecnet_lx,
   title={Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion},
   author={Sun, Yiming and Li, Xin and Zhu, Pengfei and Hu, Qinghua and Ren, Dongwei and Xu, Huiying and Zhu, Xinzhong},
-  booktitle={},
-  pages={},
+  booktitle={Forty-second International Conference on Machine Learning},
+  url={https://openreview.net/pdf?id=OcFsPBXREI},
   year={2025}
 }
 ```

@@ -84,7 +84,7 @@ if __name__ == '__main__':
     np.random.seed(0)
     torch.manual_seed(0)
     torch.cuda.set_device(testopt.cuda)
-    ckpt_path = "ckpt/" + testopt.ckpt_name
+    ckpt_path = "stage2/ckpt/" + testopt.ckpt_name
     denoise_splits = ["noise15/FMB/", "noise15/M3FD/", "noise15/LLVIP/", "noise15/MSRS/", "noise15/DroneRGBT/", "noise15/DroneVehicle/",
                       "noise25/FMB/", "noise25/M3FD/", "noise25/LLVIP/", "noise25/MSRS/", "noise25/DroneRGBT/", "noise25/DroneVehicle/",
                       "noise50/FMB/", "noise50/M3FD/", "noise50/LLVIP/", "noise50/MSRS/", "noise50/DroneRGBT/", "noise50/DroneVehicle/"]

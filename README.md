@@ -244,11 +244,13 @@ If you have any other questions about the code, please email `leexin_seu@seu.edu
 If this work has been helpful to you, please feel free to cite our paper!
 
 ```
-@inproceedings{tgecnet_lx,
-  title={Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion},
+@inproceedings{sun2025task,
+  title={Task-gated multi-expert collaboration network for degraded multi-modal image fusion},
   author={Sun, Yiming and Li, Xin and Zhu, Pengfei and Hu, Qinghua and Ren, Dongwei and Xu, Huiying and Zhu, Xinzhong},
-  booktitle={Forty-second International Conference on Machine Learning},
-  url={https://openreview.net/pdf?id=OcFsPBXREI},
-  year={2025}
+  booktitle={International Conference on Machine Learning},
+  pages={57571--57586},
+  year={2025},
+  organization={PMLR}
 }
 ```
+
